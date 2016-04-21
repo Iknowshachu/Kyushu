@@ -1,0 +1,54 @@
+
+body {
+
+	background-color:#ffffff;
+	text-align:center;
+	float: center;
+}
+
+#page {
+	width:900px;
+  height:800px;
+  margin:0 auto;
+	text-align:left;
+	background-color:#ffffff;
+}
+
+h1{
+  font-size:45px;
+	height:50px;
+  font-family:'ヒラギノ角ゴ ProN W3','Hiragino Kaku Gothic ProN';
+	text-align: center;
+  margin: auto;
+	}
+
+h2{
+		width: 900px;
+		height:20px;
+	  float:left;
+	  font-size:20px;
+	  font-family:'ヒラギノ角ゴ ProN W3','Hiragino Kaku Gothic ProN';
+		color: black;
+	  margin: 0 auto;
+		text-align: center;
+
+		background-color: #e0ffff;
+	}
+
+
+	.h2moji{
+		width: 900px;
+		height:70px;
+	  float:left;
+	  font-size:17px;
+	  font-family:'ヒラギノ角ゴ ProN W3','Hiragino Kaku Gothic ProN';
+		line-height: 150%
+
+}
+
+	#footer{
+		width:900px;
+	  height:20px;
+	  margin:0 auto;
+		text-align: center;
+	}
